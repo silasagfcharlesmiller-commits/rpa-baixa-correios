@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.log
+credenciais.json
+rastreio.db
+baixados_xlsx/
